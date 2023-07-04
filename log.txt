@@ -1,0 +1,8 @@
+июл. 04, 2023 12:43:11 PM Homework.Task01 readInFile
+INFO: Успешное открытие файла
+июл. 04, 2023 12:43:11 PM Homework.Task01 writeToFile
+INFO: Успешная запись в файл
+июл. 04, 2023 12:45:31 PM Homework.Task01 readInFile
+INFO: Успешное открытие файла
+июл. 04, 2023 12:45:31 PM Homework.Task01 writeToFile
+INFO: Успешная запись в файл
